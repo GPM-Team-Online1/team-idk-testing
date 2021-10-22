@@ -16,17 +16,23 @@ C:/Users/le/Documents/GitHub/Neuer Ordner/team-idk-testing
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< HEAD
+<<<<<<< HEAD
 54351
 Successfully changed project path to: C:/Users/le/Documents/GitHub/Neuer Ordner/team-idk-testing
 C:/Users/le/Documents/GitHub/Neuer Ordner/team-idk-testing
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 42.02 ms, found 3 plugins.
 =======
+=======
+>>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
 54620
 Successfully changed project path to: F:/UNITI/Team IDK test 1.0/team-idk-testing
 F:/UNITI/Team IDK test 1.0/team-idk-testing
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 37.67 ms, found 3 plugins.
+<<<<<<< HEAD
+>>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
+=======
 >>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.21f1 (a38c86f6690f)
@@ -81,15 +87,19 @@ Domain Reload Profiling:
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
 		EndReloadAssembly (407ms)
 			LoadAssemblies (50ms)
 =======
+=======
+>>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
 		EndReloadAssembly (372ms)
 			LoadAssemblies (41ms)
 >>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
 			RebuildTransferFunctionScriptingTraits (0ms)
 			SetupTypeCache (145ms)
 			ReleaseScriptCaches (0ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 			RebuildScriptCaches (28ms)
 			SetupLoadedEditorAssemblies (150ms)
@@ -101,6 +111,8 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (72ms)
 				ProcessInitializeOnLoadMethodAttributes (27ms)
 =======
+=======
+>>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
 			RebuildScriptCaches (26ms)
 			SetupLoadedEditorAssemblies (143ms)
 				LogAssemblyErrors (0ms)
@@ -110,6 +122,9 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (11ms)
 				ProcessInitializeOnLoadAttributes (67ms)
 				ProcessInitializeOnLoadMethodAttributes (23ms)
+<<<<<<< HEAD
+>>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
+=======
 >>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -117,6 +132,7 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 Registered in 0.005282 seconds.
 Begin MonoManager ReloadAssembly
@@ -129,6 +145,8 @@ Domain Reload Profiling:
 	ReloadAssembly (1022ms)
 		BeginReloadAssembly (132ms)
 =======
+=======
+>>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
 Registered in 0.002540 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -146,6 +164,7 @@ Domain Reload Profiling:
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (17ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
 		EndReloadAssembly (833ms)
 			LoadAssemblies (86ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -154,6 +173,8 @@ Domain Reload Profiling:
 			RebuildScriptCaches (42ms)
 			SetupLoadedEditorAssemblies (312ms)
 =======
+=======
+>>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
 		EndReloadAssembly (748ms)
 			LoadAssemblies (70ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -161,10 +182,14 @@ Domain Reload Profiling:
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (40ms)
 			SetupLoadedEditorAssemblies (297ms)
+<<<<<<< HEAD
+>>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
+=======
 >>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 				RefreshPlugins (39ms)
 				BeforeProcessingInitializeOnLoad (64ms)
@@ -172,6 +197,8 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadMethodAttributes (15ms)
 				AfterProcessingInitializeOnLoad (7ms)
 =======
+=======
+>>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
 				RefreshPlugins (38ms)
 				BeforeProcessingInitializeOnLoad (67ms)
 				ProcessInitializeOnLoadAttributes (169ms)
@@ -185,9 +212,12 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 <<<<<<< HEAD
+<<<<<<< HEAD
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
 Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
 =======
+=======
+>>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
 Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
 >>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
@@ -197,8 +227,13 @@ System memory in use before: 95.5 MB.
 System memory in use after: 95.6 MB.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2616.
 Total: 2.948600 ms (FindLiveObjects: 0.206100 ms CreateObjectMapping: 0.080800 ms MarkObjects: 2.598300 ms  DeleteObjects: 0.062200 ms)
+=======
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2617.
+Total: 2.943100 ms (FindLiveObjects: 0.198300 ms CreateObjectMapping: 0.045500 ms MarkObjects: 2.637300 ms  DeleteObjects: 0.060900 ms)
+>>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
 =======
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2617.
 Total: 2.943100 ms (FindLiveObjects: 0.198300 ms CreateObjectMapping: 0.045500 ms MarkObjects: 2.637300 ms  DeleteObjects: 0.060900 ms)
@@ -217,6 +252,7 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Import Request.
 <<<<<<< HEAD
+<<<<<<< HEAD
   path: Assets/Scenes
   artifactKey: Guid(fb33e67044068c2489ada6974ae782ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes using Guid(fb33e67044068c2489ada6974ae782ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '131af5159f209cb274ac8e5e88c4334d') in 0.009148 seconds 
@@ -230,10 +266,15 @@ Received Import Request.
 Start importing Assets/Scenes/menu.unity using Guid(1e9fa8ad6a213374ab26964ad31694ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8121272d755608355fc1a86fbe8c446f') in 0.014143 seconds 
   Import took 0.017912 seconds .
 =======
+=======
+>>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
   path: Assets/Scenes/menu.unity
   artifactKey: Guid(1e9fa8ad6a213374ab26964ad31694ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/menu.unity using Guid(1e9fa8ad6a213374ab26964ad31694ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2969ca45b286df6e0f504cd7312dd097') in 0.014568 seconds 
   Import took 0.017545 seconds .
+<<<<<<< HEAD
+>>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
+=======
 >>>>>>> 4b25f431ae47fd996681129434cea3a5a9cff3d9
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
